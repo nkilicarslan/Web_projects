@@ -1,0 +1,40 @@
+body {
+    background: black;
+    background-image: url('https://images.unsplash.com/photo-1612011408147-9cda879c390b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGtvYmUlMjBicnlhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60');
+  }
+  
+  .clock {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text1 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+   img {
+       margin-top: 120px;
+       width: 17%;
+  }
+
+  
